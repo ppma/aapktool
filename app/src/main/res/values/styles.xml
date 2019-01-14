@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:colorPrimaryDark">#FF212121</item>
+        <item name="android:colorPrimary">#FF212121</item>
+        <item name="android:colorAccent">#FF212121</item>
+        <item name="android:colorForeground">#FF212121</item>
+        <item name="android:navigationBarColor">#FF212121</item>
+        <item name="android:statusBarColor">#FF212121</item>
+        <item name="android:textColorPrimary">#FF212121</item>
+    </style>
+
+</resources>

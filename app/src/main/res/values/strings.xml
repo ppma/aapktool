@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AApktool</string>
+    <string name="info">当前用户ID：%1$s，默认用户ID：%2$s，取值范围：100000-106013。</string>
+</resources>
